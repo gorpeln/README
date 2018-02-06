@@ -204,12 +204,15 @@ https://github.com/GorpelnChen/README/blob/master/Images/myLogo.jpg
 
 ### 多级无序列表
 * 编程语言
-    * 移动开发
-        * ios
-	* swift
-    * PC端开发
-    * 服务端开发
-    
+* 移动端开发
+* iOS
+* swift
+* PC端开发
+* 前端开发
+* 服务端开发
+* PHP
+* JAVA
+    
 ### 有序列表
 #### 一般效果
 就是在数字后面加一个点，再加一个空格。不过看起来起来可能不够明显。    
