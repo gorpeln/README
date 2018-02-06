@@ -139,6 +139,7 @@ https://github.com/GorpelnChen/README/blob/master/Images/myLogo.jpg
 |---|---|----
 |1|`![baiduLogo](http://www.baidu.com/img/bdlogo.gif "百度logo")`|![baiduLogo](http://www.baidu.com/img/bdlogo.gif "百度logo")
 |2|`![][myLogo]`|![][myLogo]
+|3|`![][https://github.com/GorpelnChen/README/blob/master/Images/myLogo.jpg]`|![][https://github.com/GorpelnChen/README/blob/master/Images/myLogo.jpg]
 
 注意例2的写法使用了**URL标识符**的形式，在[链接](#链接)一节有介绍。
 >在文末有foryou的定义：
