@@ -334,7 +334,7 @@ GFM中可以显示的展示diff效果。使用绿色表示新增，红色表示�
 
 
 --------------------------------
-[myLogo]:hhttps://github.com/GorpelnChen/README/blob/master/Images/myLogo.jpg
+[myLogo]:https://github.com/GorpelnChen/README/blob/master/Images/myLogo.jpg
 [baiduLogo]:http://www.baidu.com/img/bdlogo.gif "百度logo"
 
 [csdn]:http://blog.csdn.net/guodongxiaren "我的博客"
