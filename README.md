@@ -142,7 +142,7 @@ https://github.com/GorpelnChen/README/blob/master/Images/myLogo.jpg
 |3|`![](https://github.com/GorpelnChen/README/blob/master/Images/myLogo_small.jpg)`|![](https://github.com/GorpelnChen/README/blob/master/Images/myLogo_small.jpg)
 
 注意例2的写法使用了**URL标识符**的形式，在[链接](#链接)一节有介绍。
->在文末有foryou的定义：
+>在文末有myLogo_small的定义：
 ```
 [myLogo_small]:https://github.com/GorpelnChen/README/blob/master/Images/myLogo_small.jpg
 ```
@@ -153,15 +153,16 @@ https://github.com/GorpelnChen/README/blob/master/Images/myLogo.jpg
 
 |#|语法|效果|
 |---|----|-----|
-|1|`[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")`|[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")|
-|2|`[我的知乎][zhihu] `|[我的知乎][zhihu] |
+|1|`[我的博客](http://blog.csdn.net/chen_gp_x "Gorpeln")`|[我的博客](http://blog.csdn.net/chen_gp_x "Gorpeln")|
+|2|`[我的知乎][zhihu]（暂无内容） `|[我的知乎][zhihu] |
+|3|`[我的简书][jianshu]（暂无内容） `|[我的简书][简书] |
 
 语法2由两部分组成：
 - 第一部分使用两个中括号，[ ]里的标识符（本例中zhihu），可以是数字，字母等的组合，标识符上下对应就行了（**姑且称之为URL标识符**）
 - 第二部分标记实际URL。
 
 >使用URL标识符能达到复用的目的，一般把全文所有的URL标识符统一放在文章末尾，这样看起来比较干净。
->>URL标识符是我起的名字，不知道是否准确。囧。。
+>>URL标识符是我起的名字，不知道是否准确。囧...
 
 ### 链接本仓库里的URL
 
@@ -336,11 +337,12 @@ GFM中可以显示的展示diff效果。使用绿色表示新增，红色表示�
 
 --------------------------------
 [myLogo_small]:https://github.com/GorpelnChen/README/blob/master/Images/myLogo_small.jpg
+[myLogo]:https://github.com/GorpelnChen/README/blob/master/Images/myLogo.jpg
 [baiduLogo]:http://www.baidu.com/img/bdlogo.gif "百度logo"
+[csdn]:http://blog.csdn.net/chen_gp_x "Gorpeln"
+[zhihu]:https://www.zhihu.com/people/gorpeln "Gorpeln"
+[jianshu]:https://www.jianshu.com/users/d9e93557a550
 
-[csdn]:http://blog.csdn.net/guodongxiaren "我的博客"
-[zhihu]:https://www.zhihu.com/people/jellywong "我的知乎，欢迎关注"
-[weibo]:http://weibo.com/linpiaochen
 [weibo-logo]:/img/weibo.png "点击图片进入我的微博"
 [csdn-logo]:/img/csdn.png "我的CSDN博客"
 
