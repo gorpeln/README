@@ -7,9 +7,9 @@ README
 |名字|描述|
 |:---|:---|:----:|
 |Author|Gorpeln|[my-logo]|
-|E-mail|154158462@qq.com|
-|CSDN|http://blog.csdn.net/chen_gp_x|
-|QQGroup|119783156|
+|E-mail|154158462@qq.com|logo|
+|CSDN|http://blog.csdn.net/chen_gp_x|logo|
+|QQGroup|119783156|logo|
 
 ****
 ## 目录
