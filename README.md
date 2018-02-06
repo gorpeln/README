@@ -4,7 +4,7 @@ README
 
 ****
 
-|名字|描述|
+|名字|描述|图片|
 |:---|:---|:----:|
 |Author|Gorpeln|[my-logo]|
 |E-mail|154158462@qq.com|logo|
