@@ -262,7 +262,7 @@ https://github.com/GorpelnChen/README/blob/master/Images/myLogo.jpg
 ----------
 在三个反引号后面加上编程语言的名字，另起一行开始写代码，最后一行再加上三个反引号。
 ```Objective-C
-@property (nonatomic,copy) NSString *testStr;
+@property (nonatomic, strong) NSMutableArray *visiblePhotoViews;//Objective-C
 ```
 ```Java
 public static void main(String[]args){} //Java
@@ -297,9 +297,9 @@ string &operator+(const string& A,const string& B) //cpp
 
 | 左对齐 | 居中  | 右对齐 |
 | :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
+| 风未止      | some wordy text | $1600 |
+| col is       | centered        |   $12 |
+| gorpeln chen | are neat        |    $1 |
 
 ### 混合其他语法
 表格单元中的内容可以和其他大多数GFM语法配合使用，如：  
@@ -315,7 +315,7 @@ string &operator+(const string& A,const string& B) //cpp
 
 | 图片 | 描述 |
 | ---- | ---- |
-|![baidu][baidu-logo] | 百度|
+|![路飞][myLogo] | 路飞|
 
 表情
 ----------
