@@ -4,13 +4,12 @@ README
 
 ****
 
+|#|#|
+|---|---
 |Author|Gorpeln|
-|---|---
 |E-mail|154158462@qq.com
+|CSDN|http://blog.csdn.net/chen_gp_x|
 |QQGroup|119783156|
-|---|---
-|CSDN|http://blog.csdn.net/chen_gp_x
-
 
 ****
 ## 目录
