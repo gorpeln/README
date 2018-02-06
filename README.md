@@ -198,15 +198,18 @@ https://github.com/GorpelnChen/README/blob/master/Images/myLogo.jpg
 
 ## 列表
 ### 无序列表
-* 昵称：果冻虾仁
-- 别名：隔壁老王
-* 英文名：Jelly
+* 昵称：Gorpeln
+- 别名：风未止
+* 英文名：Gorpeln
 
 ### 多级无序列表
 * 编程语言
-    * 脚本语言
-        * Python
-
+    * 移动开发
+        * ios
+	* swift
+    * PC端开发
+    * 服务端开发
+    
 ### 有序列表
 #### 一般效果
 就是在数字后面加一个点，再加一个空格。不过看起来起来可能不够明显。    
