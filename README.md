@@ -177,11 +177,11 @@ https://github.com/GorpelnChen/README/blob/master/Images/myLogo.jpg
 
 |#|语法|效果|
 |---|----|:---:|
-|1|`[![weibo-logo]](http://weibo.com/linpiaochen)`|[![weibo-logo]](http://weibo.com/linpiaochen)|
-|2|`[![](/img/zhihu.png "我的知乎，欢迎关注")][zhihu]`|[![](/img/zhihu.png "我的知乎，欢迎关注")][zhihu]|
-|3|`[![csdn-logo]][csdn]`|[![csdn-logo]][csdn]|
+|1|`[![csdn-logo]][csdn]`|[![csdn-logo]][csdn]|
+|2|`[![jianshu-logo]][jianshu](暂无内容)`|[![jianshu-logo]][jianshu]|
+|3|`[![](/Images/zhihuLogo.png "Gorpeln")][zhihu](暂无内容)`|[![](/Images/zhihuLogo.png "Gorpeln")][zhihu]|
 
-因为图片本身和链接本身都支持URL标识符的形式，所以图片链接也可以很简洁（见例3）。  
+因为图片本身和链接本身都支持URL标识符的形式，所以图片链接也可以很简洁（见例1）。  
 注意，此时鼠标悬停时显示的文字是图片的title，而非链接本身的title了。
 > 本文URL标识符都放置于文末
 
@@ -343,6 +343,7 @@ GFM中可以显示的展示diff效果。使用绿色表示新增，红色表示�
 [zhihu]:https://www.zhihu.com/people/gorpeln "Gorpeln"
 [jianshu]:https://www.jianshu.com/users/d9e93557a550 "Gorpeln"
 
-[weibo-logo]:/img/weibo.png "点击图片进入我的微博"
-[csdn-logo]:/img/csdn.png "我的CSDN博客"
+[csdn-logo]:/Images/csdnlogo.png "Gorpeln"
+[jianshu-logo]:/Images/jianshuLogo.png "Gorpeln"
+[zhihu-logo]:/Images/zhihuLogo.png "Gorpeln"
 
