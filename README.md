@@ -137,14 +137,14 @@ https://github.com/GorpelnChen/README/blob/master/Images/myLogo.jpg
 
 |#|语法|效果|
 |---|---|:----:|
-|1|`![baiduLogo](http://www.baidu.com/img/bdlogo.gif "百度logo")`|![baiduLogo](http://www.baidu.com/img/bdlogo.gif "百度logo")
-|2|`![][myLogo_small]`|![][myLogo_small]
-|3|`![](https://github.com/GorpelnChen/README/blob/master/Images/myLogo_small.jpg)`|![](https://github.com/GorpelnChen/README/blob/master/Images/myLogo_small.jpg)
+|1|`![baiduLogo](http://www.baidu.com/img/bdlogo.gif "百度logo")`|![baidu-logo](http://www.baidu.com/img/bdlogo.gif "百度logo")
+|2|`![][myLogo_small]`|![][my-logo]
+|3|`![](https://github.com/GorpelnChen/README/blob/master/Images/myLogo.jpg)`|![](https://github.com/GorpelnChen/README/blob/master/Images/myLogo.jpg)
 
 注意例2的写法使用了**URL标识符**的形式，在[链接](#链接)一节有介绍。
 >在文末有myLogo_small的定义：
 ```
-[myLogo_small]:https://github.com/GorpelnChen/README/blob/master/Images/myLogo_small.jpg
+[myLogo_small]:https://github.com/GorpelnChen/README/blob/master/Images/myLogo.jpg
 ```
 
 链接
@@ -261,9 +261,6 @@ https://github.com/GorpelnChen/README/blob/master/Images/myLogo.jpg
 代码高亮
 ----------
 在三个反引号后面加上编程语言的名字，另起一行开始写代码，最后一行再加上三个反引号。
-```Objective-C
-@property (nonatomic, strong) NSMutableArray *visiblePhotoViews;//Objective-C
-```
 ```Java
 public static void main(String[]args){} //Java
 ```
@@ -315,7 +312,7 @@ string &operator+(const string& A,const string& B) //cpp
 
 | 图片 | 描述 |
 | ---- | ---- |
-|![路飞][myLogo] | 路飞|
+|![路飞][my-logo] | 路飞|
 
 表情
 ----------
@@ -345,13 +342,12 @@ GFM中可以显示的展示diff效果。使用绿色表示新增，红色表示�
 
 
 --------------------------------
-[myLogo_small]:https://github.com/GorpelnChen/README/blob/master/Images/myLogo_small.jpg
-[myLogo]:https://github.com/GorpelnChen/README/blob/master/Images/myLogo.jpg
-[baiduLogo]:http://www.baidu.com/img/bdlogo.gif "百度logo"
 [csdn]:http://blog.csdn.net/chen_gp_x "Gorpeln"
 [zhihu]:https://www.zhihu.com/people/gorpeln "Gorpeln"
 [jianshu]:https://www.jianshu.com/users/d9e93557a550 "Gorpeln"
 
+[my-logo]:https://github.com/GorpelnChen/README/blob/master/Images/myLogo.jpg
+[baidu-logo]:http://www.baidu.com/img/bdlogo.gif "百度logo"
 [csdn-logo]:/Images/csdnLogo.png "Gorpeln"
 [jianshu-logo]:/Images/jianshuLogo.png "Gorpeln"
 [zhihu-logo]:/Images/zhihuLogo.png "Gorpeln"
