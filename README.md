@@ -4,9 +4,12 @@ README
 
 ****
 
-|Author|果冻虾仁|
+|Author|Gorpeln|
 |---|---
-|E-mail|Jelly.K.Wang@qq.com
+|E-mail|154158462@qq.com
+|QQGroup|119783156|
+|---|---
+|CSDN|http://blog.csdn.net/chen_gp_x
 
 
 ****
