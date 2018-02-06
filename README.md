@@ -248,7 +248,7 @@ https://github.com/GorpelnChen/README/blob/master/Images/myLogo.jpg
 ### 常用于引用文本
 #### 文本摘自 Objective-C 百度百科
 　Objective-C，通常写作ObjC或OC和较少用的Objective C或Obj-C，是扩充C的面向对象编程语言。它主要使用于Mac OS X和GNUstep这两个使用OpenStep标准的系统，而在NeXTSTEP和OpenStep中它更是基本语言。
-> GCC与Clang含Objective-C的编译器，Objective-C可以在GCC以及Clang运作的系统上编译。
+> GCC与Clang含Objective-C的编译器，Objective-C可以在GCC以及Clang运作的系统上编译。  
 1980年代初布莱德·考克斯(Brad Cox)在其公司Stepstone发明Objective-C。他对软件设计和编程里的真实可用度问题十分关心。Objective-C最主要的描述是他1986年出版的书 Object Oriented Programming: An Evolutionary Approach. Addison Wesley. ISBN 0-201-54834-8.
 
 ### 块引用有多级结构
