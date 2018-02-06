@@ -136,15 +136,15 @@ https://github.com/GorpelnChen/README/blob/master/Images/myLogo.jpg
 ```
 
 |#|语法|效果|
-|---|---|----
+|---|---|:----:|
 |1|`![baiduLogo](http://www.baidu.com/img/bdlogo.gif "百度logo")`|![baiduLogo](http://www.baidu.com/img/bdlogo.gif "百度logo")
-|2|`![][myLogo]`|![][myLogo_small]
+|2|`![][myLogo_small]`|![][myLogo_small]
 |3|`![](https://github.com/GorpelnChen/README/blob/master/Images/myLogo_small.jpg)`|![](https://github.com/GorpelnChen/README/blob/master/Images/myLogo_small.jpg)
 
 注意例2的写法使用了**URL标识符**的形式，在[链接](#链接)一节有介绍。
 >在文末有foryou的定义：
 ```
-[myLogo]:https://github.com/GorpelnChen/README/blob/master/Images/myLogo_small.jpg
+[myLogo_small]:https://github.com/GorpelnChen/README/blob/master/Images/myLogo_small.jpg
 ```
 
 链接
@@ -335,7 +335,7 @@ GFM中可以显示的展示diff效果。使用绿色表示新增，红色表示�
 
 
 --------------------------------
-[myLogo]:https://github.com/GorpelnChen/README/blob/master/Images/myLogo_small.jpg
+[myLogo_small]:https://github.com/GorpelnChen/README/blob/master/Images/myLogo_small.jpg
 [baiduLogo]:http://www.baidu.com/img/bdlogo.gif "百度logo"
 
 [csdn]:http://blog.csdn.net/guodongxiaren "我的博客"
