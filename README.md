@@ -343,7 +343,7 @@ GFM中可以显示的展示diff效果。使用绿色表示新增，红色表示�
 [zhihu]:https://www.zhihu.com/people/gorpeln "Gorpeln"
 [jianshu]:https://www.jianshu.com/users/d9e93557a550 "Gorpeln"
 
-[csdn-logo]:/Images/csdnlogo.png "Gorpeln"
+[csdn-logo]:/Images/csdnLogo.png "Gorpeln"
 [jianshu-logo]:/Images/jianshuLogo.png "Gorpeln"
 [zhihu-logo]:/Images/zhihuLogo.png "Gorpeln"
 
