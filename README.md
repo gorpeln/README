@@ -153,7 +153,7 @@ https://github.com/GorpelnChen/README/blob/master/Images/myLogo.jpg
 
 |#|语法|效果|
 |---|----|:-----:|
-|1|`[我的博客](http://blog.csdn.net/chen_gp_x "Gorpeln")`|[我的博客](http://blog.csdn.net/chen_gp_x "Gorpeln")|
+|1|`[我的CSDN](http://blog.csdn.net/chen_gp_x "Gorpeln")`|[我的CSDN](http://blog.csdn.net/chen_gp_x "Gorpeln")|
 |2|`[我的知乎][zhihu]（暂无内容） `|[我的知乎][zhihu] |
 |3|`[我的简书][jianshu]（暂无内容） `|[我的简书][jianshu] |
 
@@ -168,8 +168,8 @@ https://github.com/GorpelnChen/README/blob/master/Images/myLogo.jpg
 
 |语法|效果|
 |----|-----|
-|`[我的简介](/example/profile.md)`|[我的简介](/example/profile.md)|
-|`[Book](./Book)`|[Book](/Book)|
+|`[我的简介](/myProfile.md)`|[我的简介](/myProfile.md)|
+|`[我的头像](/Images)`|[Book](/Images)|
 
 ### 图片链接
 给图片加链接的本质是混合图片显示语法和普通的链接语法。普通的链接中[ ]内部是链接要显示的文本，而图片链接[ ]里面则是要显示的图片。  
@@ -341,7 +341,7 @@ GFM中可以显示的展示diff效果。使用绿色表示新增，红色表示�
 [baiduLogo]:http://www.baidu.com/img/bdlogo.gif "百度logo"
 [csdn]:http://blog.csdn.net/chen_gp_x "Gorpeln"
 [zhihu]:https://www.zhihu.com/people/gorpeln "Gorpeln"
-[jianshu]:https://www.jianshu.com/users/d9e93557a550
+[jianshu]:https://www.jianshu.com/users/d9e93557a550 "Gorpeln"
 
 [weibo-logo]:/img/weibo.png "点击图片进入我的微博"
 [csdn-logo]:/img/csdn.png "我的CSDN博客"
