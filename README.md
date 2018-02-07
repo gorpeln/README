@@ -12,10 +12,10 @@ README
 |![qqgroup-logo-small]|QQ群|119783156|  
 
 ****
-|![my-logo-small]|![wechat-logo-small]|[![jianshu-logo-small]][jianshu]|[![zhihu-logo-small]][zhihu]|  
+|![my-logo-small]|[![wechat-logo-small]][QRCode-wechat]|[![jianshu-logo-small]][jianshu]|[![zhihu-logo-small]][zhihu]|  
 |:----:|:---:|:---:|:---:| 
 |Author|公众号|简书|知乎|  
-|[Gorpeln]|154158462|119783156|119783156| 
+|[Gorpeln]|[公众号][QRCode-wechat]|[我的简书][jianshu]|[我的简书][zhihu]| 
 ****
 
 ## 目录
@@ -367,5 +367,7 @@ GFM中可以显示的展示diff效果。使用绿色表示新增，红色表示�
 [qqgroup-logo-small]:https://github.com/Gorpeln/README/blob/master/Images/smallImage/qqgroupLogo_small.png "119783156"
 [wechat-logo-small]:https://github.com/Gorpeln/README/blob/master/Images/smallImage/wechatLogo_small.png "Gorpeln"
 [mail-logo-small]:https://github.com/Gorpeln/README/blob/master/Images/smallImage/mailLogo_small.png "154158462@qq.com"
-[Gorpeln]: Gorpeln
+[QRCode-wechat]:https://github.com/Gorpeln/README/blob/master/Images/QRCode_whchat.png "公众号"
+[mail-logo-small]:https://github.com/Gorpeln/README/blob/master/Images/smallImage/mailLogo_small.png "154158462@qq.com"
+[Gorpeln]: /myProfile.md "Gorpeln"
 
