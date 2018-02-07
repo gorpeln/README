@@ -15,7 +15,7 @@ README
 |![zhihu-logo-small]|知乎|119783156(暂无内容)|
 
 ****
-|![my-logo-small]|logo|logo|logo|logo|logo|logo|  
+|![my-logo-small]|![mail-logo-small]|![csdn-logo-small]|![qqgroup-logo-small]|![wechat-logo-small]|![jianshu-logo-small]|![zhihu-logo-small]|  
 |:----:|:---:|:---:|:---:|:---:|:---:|:---:|  
 |Author|E-mail|CSDN|QQ群|公众号|简书|知乎|  
 logo|logo|logo|logo|logo|logo|logo|  
