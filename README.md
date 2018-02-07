@@ -6,13 +6,13 @@ README
 
 |图片|名字|描述|
 |:----:|:---:|:---|
-|![csdn-logo-small]|Author|Gorpeln|
-|logo|E-mail|154158462@qq.com|
-|logo|CSDN|http://blog.csdn.net/chen_gp_x|
-|logo|QQ群|119783156|
-|logo|公众号|119783156(暂无内容)|
-|logo|简书|119783156(暂无内容)|
-|logo|知乎|119783156(暂无内容)|
+|![my-logo-small]|Author|Gorpeln|
+|![mail-logo-small]|E-mail|154158462@qq.com|
+|![csdn-logo-small]|CSDN|http://blog.csdn.net/chen_gp_x|
+|![qqgroup-logo-small]|QQ群|119783156|
+|![wechat-logo-small]|公众号|119783156(暂无内容)|
+|![jianshu-logo-small]|简书|119783156(暂无内容)|
+|![zhihu-logo-small]|知乎|119783156(暂无内容)|
 
 ****
 ## 目录
@@ -358,4 +358,10 @@ GFM中可以显示的展示diff效果。使用绿色表示新增，红色表示�
 [zhihu-logo]:/Images/zhihuLogo.png "Gorpeln"
 
 [csdn-logo-small]:https://github.com/Gorpeln/README/blob/master/Images/smallImage/csdnLogo_small.png "Gorpeln"
+[jianshu-logo-small]:https://github.com/Gorpeln/README/blob/master/Images/smallImage/jianshuLogo_small.png "Gorpeln"
+[zhihu-logo-small]:https://github.com/Gorpeln/README/blob/master/Images/smallImage/zhihuLogo_small.png "Gorpeln"
+[my-logo-small]:https://github.com/Gorpeln/README/blob/master/Images/smallImage/myLogo_small.png "Gorpeln"
+[qqgroup-logo-small]:https://github.com/Gorpeln/README/blob/master/Images/smallImage/qqgroupLogo_small.png "Gorpeln"
+[wechat-logo-small]:https://github.com/Gorpeln/README/blob/master/Images/smallImage/wwchatLogo_small.png "Gorpeln"
+[mail-logo-small]:https://github.com/Gorpeln/README/blob/master/Images/smallImage/mailLogo_small.png "Gorpeln"
 
