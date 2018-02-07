@@ -9,16 +9,13 @@ README
 |![my-logo-small]|Author|Gorpeln|
 |![mail-logo-small]|E-mail|154158462@qq.com|
 |![csdn-logo-small]|CSDN|http://blog.csdn.net/chen_gp_x|
-|![qqgroup-logo-small]|QQ群|119783156|
-|![wechat-logo-small]|公众号|119783156(暂无内容)|
-|![jianshu-logo-small]|简书|119783156(暂无内容)|
-|![zhihu-logo-small]|知乎|119783156(暂无内容)|
+|![qqgroup-logo-small]|QQ群|119783156|  
 
 ****
-|![my-logo-small]|![mail-logo-small]|[![csdn-logo-small]][csdn]|![qqgroup-logo-small]|![wechat-logo-small]|[![jianshu-logo-small]][jianshu]|[![zhihu-logo-small]][zhihu]|  
-|:----:|:---:|:---:|:---:|:---:|:---:|:---:|  
-|Author|E-mail|CSDN|QQ群|公众号|简书|知乎|  
-|[Gorpeln]|154158462|119783156|119783156|119783156|119783156|119783156|  
+|![my-logo-small]|![wechat-logo-small]|[![jianshu-logo-small]][jianshu]|[![zhihu-logo-small]][zhihu]|  
+|:----:|:---:|:---:|:---:| 
+|Author|公众号|简书|知乎|  
+|[Gorpeln]|154158462|119783156|119783156| 
 ****
 
 ## 目录
