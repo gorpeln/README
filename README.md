@@ -6,7 +6,7 @@ README
 
 |图片|名字|描述|
 |:----:|:---:|:---|
-|logo|Author|Gorpeln|
+|![csdn-logo-small]|Author|Gorpeln|
 |logo|E-mail|154158462@qq.com|
 |logo|CSDN|http://blog.csdn.net/chen_gp_x|
 |logo|QQ群|119783156|
@@ -356,4 +356,6 @@ GFM中可以显示的展示diff效果。使用绿色表示新增，红色表示�
 [csdn-logo]:/Images/csdnLogo.png "Gorpeln"
 [jianshu-logo]:/Images/jianshuLogo.png "Gorpeln"
 [zhihu-logo]:/Images/zhihuLogo.png "Gorpeln"
+
+[csdn-logo-small]:https://github.com/Gorpeln/README/blob/master/Images/smallImage/csdnLogo_small.png "Gorpeln"
 
