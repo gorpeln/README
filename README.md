@@ -4,15 +4,15 @@ README
 
 ****
 
-|名字|描述|图片|
-|:---|:---|:----:|
-|Author|Gorpeln|[my-logo]|
-|E-mail|154158462@qq.com|logo|
-|CSDN|http://blog.csdn.net/chen_gp_x|logo|
-|QQ群|119783156|logo|
-|公众号|119783156(暂无内容)|logo|
-|简书|119783156(暂无内容)|logo|
-|知乎|119783156(暂无内容)|logo|
+|图片|名字|描述|
+|:----:|:---:|:---|
+|logo|Author|Gorpeln|
+|logo|E-mail|154158462@qq.com|
+|logo|CSDN|http://blog.csdn.net/chen_gp_x|
+|logo|QQ群|119783156|
+|logo|公众号|119783156(暂无内容)|
+|logo|简书|119783156(暂无内容)|
+|logo|知乎|119783156(暂无内容)|
 
 ****
 ## 目录
