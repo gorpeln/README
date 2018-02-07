@@ -362,6 +362,6 @@ GFM中可以显示的展示diff效果。使用绿色表示新增，红色表示�
 [zhihu-logo-small]:https://github.com/Gorpeln/README/blob/master/Images/smallImage/zhihuLogo_small.png "Gorpeln"
 [my-logo-small]:https://github.com/Gorpeln/README/blob/master/Images/smallImage/myLogo_small.png "Gorpeln"
 [qqgroup-logo-small]:https://github.com/Gorpeln/README/blob/master/Images/smallImage/qqgroupLogo_small.png "Gorpeln"
-[wechat-logo-small]:https://github.com/Gorpeln/README/blob/master/Images/smallImage/wwchatLogo_small.png "Gorpeln"
+[wechat-logo-small]:https://github.com/Gorpeln/README/blob/master/Images/smallImage/wechatLogo_small.png "Gorpeln"
 [mail-logo-small]:https://github.com/Gorpeln/README/blob/master/Images/smallImage/mailLogo_small.png "Gorpeln"
 
