@@ -9,12 +9,15 @@ README
 |![my-logo-small]|Author|Gorpeln|
 |![mail-logo-small]|E-mail|154158462@qq.com|
 |![csdn-logo-small]|CSDN|http://blog.csdn.net/chen_gp_x|
-|![qqgroup-logo-small]|QQ群|119783156|
-|![wechat-logo-small]|公众号|119783156(暂无内容)|
-|![jianshu-logo-small]|简书|119783156(暂无内容)|
-|![zhihu-logo-small]|知乎|119783156(暂无内容)|
+|![qqgroup-logo-small]|QQ群|119783156|  
 
 ****
+|[![my-logo-small]][Gorpeln]|[![mail-logo-small]][Gorpeln]|[![csdn-logo-small]][csdn]|[![qqgroup-logo-small]][Gorpeln]|[![wechat-logo-small]][QRCode-wechat]|[![jianshu-logo-small]][jianshu]|[![zhihu-logo-small]][zhihu]|
+|:----:|:---:|:---:|:----:|:----:|:----:|:----:|
+|Author|E-mail|CSDN|QQ群|公众号|简书|知乎|
+|[Gorpeln]|[我的邮箱][zhihu]|[CSDN][zhihu]|[QQ群][zhihu]|[公众号][QRCode-wechat]|[我的简书][jianshu]|[我的简书][zhihu]|
+****
+
 ## 目录
 * [横线](#横线)
 * [标题](#标题)
@@ -357,11 +360,14 @@ GFM中可以显示的展示diff效果。使用绿色表示新增，红色表示�
 [jianshu-logo]:/Images/jianshuLogo.png "Gorpeln"
 [zhihu-logo]:/Images/zhihuLogo.png "Gorpeln"
 
-[csdn-logo-small]:https://github.com/Gorpeln/README/blob/master/Images/smallImage/csdnLogo_small.png "Gorpeln"
-[jianshu-logo-small]:https://github.com/Gorpeln/README/blob/master/Images/smallImage/jianshuLogo_small.png "Gorpeln"
-[zhihu-logo-small]:https://github.com/Gorpeln/README/blob/master/Images/smallImage/zhihuLogo_small.png "Gorpeln"
+[csdn-logo-small]:https://github.com/Gorpeln/README/blob/master/Images/smallImage/csdnLogo_small.png "http://blog.csdn.net/chen_gp_x"
+[jianshu-logo-small]:https://github.com/Gorpeln/README/blob/master/Images/smallImage/jianshuLogo_small.png "www.jianshu.com/users/d9e93557a550"
+[zhihu-logo-small]:https://github.com/Gorpeln/README/blob/master/Images/smallImage/zhihuLogo_small.png "https://www.zhihu.com/people/gorpeln"
 [my-logo-small]:https://github.com/Gorpeln/README/blob/master/Images/smallImage/myLogo_small.png "Gorpeln"
-[qqgroup-logo-small]:https://github.com/Gorpeln/README/blob/master/Images/smallImage/qqgroupLogo_small.png "Gorpeln"
+[qqgroup-logo-small]:https://github.com/Gorpeln/README/blob/master/Images/smallImage/qqgroupLogo_small.png "119783156"
 [wechat-logo-small]:https://github.com/Gorpeln/README/blob/master/Images/smallImage/wechatLogo_small.png "Gorpeln"
-[mail-logo-small]:https://github.com/Gorpeln/README/blob/master/Images/smallImage/mailLogo_small.png "Gorpeln"
+[mail-logo-small]:https://github.com/Gorpeln/README/blob/master/Images/smallImage/mailLogo_small.png "154158462@qq.com"
+[QRCode-wechat]:https://github.com/Gorpeln/README/blob/master/Images/QRCode_whchat.png "公众号"
+[mail-logo-small]:https://github.com/Gorpeln/README/blob/master/Images/smallImage/mailLogo_small.png "154158462@qq.com"
+[Gorpeln]: /myProfile.md "Gorpeln"
 
