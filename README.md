@@ -18,7 +18,7 @@ README
 |![my-logo-small]|![mail-logo-small]|![csdn-logo-small]|![qqgroup-logo-small]|![wechat-logo-small]|![jianshu-logo-small]|![zhihu-logo-small]|  
 |:----:|:---:|:---:|:---:|:---:|:---:|:---:|  
 |Author|E-mail|CSDN|QQ群|公众号|简书|知乎|  
-|Gorpeln|154158462@qq.com|http://blog.csdn.net/chen_gp_x|119783156|119783156(暂无内容)|119783156(暂无内容)|119783156(暂无内容)|  
+|Gorpeln|154158462|119783156|119783156|119783156|119783156|119783156|  
 ****
 
 ## 目录
