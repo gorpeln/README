@@ -6,7 +6,7 @@ README
 
 |图片|名字|描述|
 |:----:|:---:|:---|
-|logo|Author|Gorpeln|
+|![csdn-logo-small]|Author|Gorpeln|
 |logo|E-mail|154158462@qq.com|
 |logo|CSDN|http://blog.csdn.net/chen_gp_x|
 |logo|QQ群|119783156|
