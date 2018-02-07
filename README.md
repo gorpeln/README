@@ -15,7 +15,7 @@ README
 |![zhihu-logo-small]|知乎|119783156(暂无内容)|
 
 ****
-|![my-logo-small]|![mail-logo-small]|![csdn-logo-small][csdn]|![qqgroup-logo-small]|![wechat-logo-small]|![jianshu-logo-small][jianshu]|![zhihu-logo-small][zhihu]|  
+|![my-logo-small]|![mail-logo-small]|[![csdn-logo-small]][csdn]|![qqgroup-logo-small]|![wechat-logo-small]|[![jianshu-logo-small]][jianshu]|[![zhihu-logo-small]][zhihu]|  
 |:----:|:---:|:---:|:---:|:---:|:---:|:---:|  
 |Author|E-mail|CSDN|QQ群|公众号|简书|知乎|  
 |[Gorpeln]|154158462|119783156|119783156|119783156|119783156|119783156|  
@@ -370,4 +370,5 @@ GFM中可以显示的展示diff效果。使用绿色表示新增，红色表示�
 [qqgroup-logo-small]:https://github.com/Gorpeln/README/blob/master/Images/smallImage/qqgroupLogo_small.png "119783156"
 [wechat-logo-small]:https://github.com/Gorpeln/README/blob/master/Images/smallImage/wechatLogo_small.png "Gorpeln"
 [mail-logo-small]:https://github.com/Gorpeln/README/blob/master/Images/smallImage/mailLogo_small.png "154158462@qq.com"
+[Gorpeln]: Gorpeln
 
