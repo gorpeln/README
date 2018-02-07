@@ -357,3 +357,5 @@ GFM中可以显示的展示diff效果。使用绿色表示新增，红色表示�
 [jianshu-logo]:/Images/jianshuLogo.png "Gorpeln"
 [zhihu-logo]:/Images/zhihuLogo.png "Gorpeln"
 
+[csdn-logo-small]:https://github.com/Gorpeln/README/blob/master/Images/smallImage/csdnLogo_small.png "Gorpeln"
+
