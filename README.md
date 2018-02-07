@@ -12,9 +12,9 @@ README
 |![qqgroup-logo-small]|QQ群|119783156|  
 
 ****
-|![my-logo-small]|[![wechat-logo-small]][QRCode-wechat]|[![jianshu-logo-small]][jianshu]|[![zhihu-logo-small]][zhihu]|  
-|:----:|:---:|:---:|:---:| 
-|Author|公众号|简书|知乎|  
+|[![my-logo-small]][Gorpeln]|logo|logo|logo|[![wechat-logo-small]][QRCode-wechat]|[![jianshu-logo-small]][jianshu]|[![zhihu-logo-small]][zhihu]|  
+|:----:|:---:|:---:|:---:|:---:|:---:| :---:|  
+|Author|E-mail|CSDN|QQ群|公众号|简书|知乎|  
 |[Gorpeln]|[公众号][QRCode-wechat]|[我的简书][jianshu]|[我的简书][zhihu]| 
 ****
 
