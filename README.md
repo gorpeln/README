@@ -4,18 +4,15 @@ README
 
 ****
 
-|图片|名字|描述|
-|:----:|:---:|:---|
-|![my-logo-small]|Author|Gorpeln|
-|![mail-logo-small]|E-mail|154158462@qq.com|
-|![csdn-logo-small]|CSDN|http://blog.csdn.net/chen_gp_x|
-|![qqgroup-logo-small]|QQ群|119783156|  
-
 ****
-|[![my-logo-small]][Gorpeln]|[![mail-logo-small]][Gorpeln]|[![csdn-logo-small]][csdn]|[![qqgroup-logo-small]][Gorpeln]|[![wechat-logo-small]][QRCode-wechat]|[![jianshu-logo-small]][jianshu]|[![zhihu-logo-small]][zhihu]|
-|:----:|:---:|:---:|:----:|:----:|:----:|:----:|
-|Author|E-mail|CSDN|QQ群|公众号|简书|知乎|
-|[Gorpeln]|[我的邮箱][zhihu]|[CSDN][zhihu]|[QQ群][zhihu]|[公众号][QRCode-wechat]|[我的简书][jianshu]|[我的简书][zhihu]|
+
+
+|[![my-logo-small]][gorpeln]|[![my-logo-small]][gorpeln]|[![my-logo-small]][gorpeln]|[![mail-logo-small]][gorpeln]|[![csdn-logo-small]][gorpeln]|[![csdn-logo-small]][gorpeln]|[![qq-logo-small]][gorpeln]|[![QRCode-logo-small]][gorpeln]|[![my-logo-small]][gorpeln]|[![my-logo-small]][gorpeln]|
+|:----:|:---:|:---:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+|Author|个人博客|个人项目|E-mail|CSDN|CSDN|QQ|简书|公众号|小程序|
+|gorpeln|gorpeln个人博客 - gorpeln|个人项目|E-mail|CSDN|CSDN|QQ|简书|公众号|小程序|
+
+
 ****
 
 ## 目录
@@ -77,7 +74,7 @@ ___
 ### 单行文本
 在一行开头加入1个Tab或者4个空格。
 
-	Hello,大家好，我是 Gorpeln Chen 。
+	Hello,大家好，我是 gorpeln Chen 。
 	
 ### 文本块
 #### 语法1
@@ -92,7 +89,7 @@ ___
 ```
 欢迎到访，
 我是专注于iOS的码农。
-你可以在 CSDN、github搜索【Gorpeln】找到我哦！
+你可以在 CSDN、github搜索【gorpeln】找到我哦！
 ```
 该语法也可以实现代码高亮，见[代码高亮](#代码高亮)
 ### 文字高亮
@@ -140,19 +137,19 @@ alt和title即对应HTML中的alt和title属性（都可省略）：
 
 URL即图片的url地址，如果引用本仓库中的图片，直接使用**相对路径**就可了，如果引用其他github仓库中的图片要注意格式，即：`仓库地址/blob/分支名/图片路径`，如：
 ```
-https://github.com/GorpelnChen/README/blob/master/Images/myLogo.jpg
+https://github.com/gorpeln/README/blob/master/Images/myLogo.jpg
 ```
 
 |#|语法|效果|
 |---|---|:----:|
 |1|`![baiduLogo](http://www.baidu.com/img/bdlogo.gif "百度logo")`|![baidu-logo](http://www.baidu.com/img/bdlogo.gif "百度logo")
 |2|`![][myLogo_small]`|![][my-logo]
-|3|`![](https://github.com/GorpelnChen/README/blob/master/Images/myLogo.jpg)`|![](https://github.com/GorpelnChen/README/blob/master/Images/myLogo.jpg)
+|3|`![](https://github.com/gorpeln/README/blob/master/Images/myLogo.jpg)`|![](https://github.com/gorpeln/README/blob/master/Images/myLogo.jpg)
 
 注意例2的写法使用了**URL标识符**的形式，在[链接](#链接)一节有介绍。
 >在文末有myLogo_small的定义：
 ```
-[myLogo_small]:https://github.com/GorpelnChen/README/blob/master/Images/myLogo.jpg
+[myLogo_small]:https://github.com/gorpeln/README/blob/master/Images/myLogo.jpg
 ```
 
 链接
@@ -161,7 +158,7 @@ https://github.com/GorpelnChen/README/blob/master/Images/myLogo.jpg
 
 |#|语法|效果|
 |---|----|:-----:|
-|1|`[我的CSDN](http://blog.csdn.net/chen_gp_x "Gorpeln")`|[我的CSDN](http://blog.csdn.net/chen_gp_x "Gorpeln")|
+|1|`[我的CSDN](http://blog.csdn.net/chen_gp_x "gorpeln")`|[我的CSDN](http://blog.csdn.net/chen_gp_x "gorpeln")|
 |2|`[我的知乎][zhihu]（暂无内容） `|[我的知乎][zhihu] |
 |3|`[我的简书][jianshu]（暂无内容） `|[我的简书][jianshu] |
 
@@ -187,7 +184,7 @@ https://github.com/GorpelnChen/README/blob/master/Images/myLogo.jpg
 |---|----|:---:|
 |1|`[![csdn-logo]][csdn]`|[![csdn-logo]][csdn]|
 |2|`[![jianshu-logo]][jianshu](暂无内容)`|[![jianshu-logo]][jianshu]|
-|3|`[![](/Images/zhihuLogo.png "Gorpeln")][zhihu](暂无内容)`|[![](/Images/zhihuLogo.png "Gorpeln")][zhihu]|
+|3|`[![](/Images/zhihuLogo.png "gorpeln")][zhihu](暂无内容)`|[![](/Images/zhihuLogo.png "gorpeln")][zhihu]|
 
 因为图片本身和链接本身都支持URL标识符的形式，所以图片链接也可以很简洁（见例1）。  
 注意，此时鼠标悬停时显示的文字是图片的title，而非链接本身的title了。
@@ -206,9 +203,9 @@ https://github.com/GorpelnChen/README/blob/master/Images/myLogo.jpg
 
 ## 列表
 ### 无序列表
-* 昵称：Gorpeln
+* 昵称：gorpeln
 - 别名：风未止
-* 英文名：Gorpeln
+* 英文名：gorpeln
 
 ### 多级无序列表
 * 编程语言
@@ -350,24 +347,24 @@ GFM中可以显示的展示diff效果。使用绿色表示新增，红色表示�
 
 
 --------------------------------
-[csdn]:http://blog.csdn.net/chen_gp_x "Gorpeln"
-[zhihu]:https://www.zhihu.com/people/gorpeln "Gorpeln"
-[jianshu]:https://www.jianshu.com/users/d9e93557a550 "Gorpeln"
+[csdn]:http://blog.csdn.net/chen_gp_x "gorpeln"
+[zhihu]:https://www.zhihu.com/people/gorpeln "gorpeln"
+[jianshu]:https://www.jianshu.com/users/d9e93557a550 "gorpeln"
 
-[my-logo]:https://github.com/GorpelnChen/README/blob/master/Images/myLogo.jpg
+[my-logo]:https://github.com/gorpeln/README/blob/master/Images/myLogo.jpg
 [baidu-logo]:http://www.baidu.com/img/bdlogo.gif "百度logo"
-[csdn-logo]:/Images/csdnLogo.png "Gorpeln"
-[jianshu-logo]:/Images/jianshuLogo.png "Gorpeln"
-[zhihu-logo]:/Images/zhihuLogo.png "Gorpeln"
+[csdn-logo]:/Images/csdnLogo.png "gorpeln"
+[jianshu-logo]:/Images/jianshuLogo.png "gorpeln"
+[zhihu-logo]:/Images/zhihuLogo.png "gorpeln"
 
-[csdn-logo-small]:https://github.com/Gorpeln/README/blob/master/Images/smallImage/csdnLogo_small.png "http://blog.csdn.net/chen_gp_x"
-[jianshu-logo-small]:https://github.com/Gorpeln/README/blob/master/Images/smallImage/jianshuLogo_small.png "www.jianshu.com/users/d9e93557a550"
-[zhihu-logo-small]:https://github.com/Gorpeln/README/blob/master/Images/smallImage/zhihuLogo_small.png "https://www.zhihu.com/people/gorpeln"
-[my-logo-small]:https://github.com/Gorpeln/README/blob/master/Images/smallImage/myLogo_small.png "Gorpeln"
-[qqgroup-logo-small]:https://github.com/Gorpeln/README/blob/master/Images/smallImage/qqgroupLogo_small.png "119783156"
-[wechat-logo-small]:https://github.com/Gorpeln/README/blob/master/Images/smallImage/wechatLogo_small.png "Gorpeln"
-[mail-logo-small]:https://github.com/Gorpeln/README/blob/master/Images/smallImage/mailLogo_small.png "154158462@qq.com"
-[QRCode-wechat]:https://github.com/Gorpeln/README/blob/master/Images/QRCode_whchat.png "公众号"
-[mail-logo-small]:https://github.com/Gorpeln/README/blob/master/Images/smallImage/mailLogo_small.png "154158462@qq.com"
-[Gorpeln]: /myProfile.md "Gorpeln"
+[csdn-logo-small]:https://github.com/gorpeln/README/blob/master/Images/smallImage/csdnLogo_small.png "http://blog.csdn.net/chen_gp_x"
+[jianshu-logo-small]:https://github.com/gorpeln/README/blob/master/Images/smallImage/jianshuLogo_small.png "www.jianshu.com/users/d9e93557a550"
+[zhihu-logo-small]:https://github.com/gorpeln/README/blob/master/Images/smallImage/zhihuLogo_small.png "https://www.zhihu.com/people/gorpeln"
+[my-logo-small]:https://github.com/gorpeln/README/blob/master/Images/smallImage/myLogo_small.png "gorpeln"
+[qq-logo-small]:https://github.com/gorpeln/README/blob/master/Images/smallImage/qqgroupLogo_small.png "33964471"
+[wechat-logo-small]:https://github.com/gorpeln/README/blob/master/Images/smallImage/wechatLogo_small.png "gorpeln"
+[mail-logo-small]:https://github.com/gorpeln/README/blob/master/Images/smallImage/mailLogo_small.png "gorpeln@163.com"
+[QRCode-wechat]:https://github.com/gorpeln/README/blob/master/Images/QRCode_whchat.png "公众号"
+[mail-logo-small]:https://github.com/gorpeln/README/blob/master/Images/smallImage/mailLogo_small.png "gorpeln@163.com"
+[gorpeln]: /myProfile.md "gorpeln"
 
