@@ -4,13 +4,11 @@ README
 
 ****
 
-****
 
-
-|[![my-logo-small]][gorpeln]|[![my-logo-small]][gorpeln]|[![my-logo-small]][gorpeln]|[![mail-logo-small]][gorpeln]|[![csdn-logo-small]][gorpeln]|[![csdn-logo-small]][gorpeln]|[![qq-logo-small]][gorpeln]|[![QRCode-logo-small]][gorpeln]|[![my-logo-small]][gorpeln]|[![my-logo-small]][gorpeln]|
-|:----:|:---:|:---:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-|Author|个人博客|个人项目|E-mail|CSDN|CSDN|QQ|简书|公众号|小程序|
-|gorpeln|gorpeln个人博客 - gorpeln|个人项目|E-mail|CSDN|CSDN|QQ|简书|公众号|小程序|
+|[![my-logo-small]][gorpeln]|[![my-logo-small]][gorpeln]|[![my-logo-small]][gorpeln]|[![mail-logo-small]][gorpeln]|[![csdn-logo-small]][gorpeln]|[![qq-logo-small]][gorpeln]|[![mini-logo-small]][gorpeln]|
+|:----:|:---:|:---:|:----:|:----:|:----:|:----:|
+|Author|个人博客|个人项目|E-mail|CSDN|QQ|小程序|
+|[gorpeln][gorpeln]|[风未止][blog]|[项目][projects]|[gorpeln@163.com][mailNumber]|[chen_gp_x][csdn]|[33964471][qqNumber]|[gorpeln][mini-url]|
 
 
 ****
@@ -350,6 +348,11 @@ GFM中可以显示的展示diff效果。使用绿色表示新增，红色表示�
 [csdn]:http://blog.csdn.net/chen_gp_x "gorpeln"
 [zhihu]:https://www.zhihu.com/people/gorpeln "gorpeln"
 [jianshu]:https://www.jianshu.com/users/d9e93557a550 "gorpeln"
+[blog]:https://gorpeln.com "gorpeln"
+[projects]:https://gorpeln.com/works "gorpeln"
+[qqNumber]:http://wpa.qq.com/msgrd?v=3&amp;uin=33964471&amp;site=qq&amp;menu=yes&amp;from=message&amp;isappinstalled=0 "gorpeln"
+[mailNumber]:http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=gorpeln@163.com "gorpeln"
+[mini-url]:https://gorpeln.com/article/15618778699 "gorpeln"
 
 [my-logo]:https://github.com/gorpeln/README/blob/master/Images/myLogo.jpg
 [baidu-logo]:http://www.baidu.com/img/bdlogo.gif "百度logo"
@@ -366,5 +369,7 @@ GFM中可以显示的展示diff效果。使用绿色表示新增，红色表示�
 [mail-logo-small]:https://github.com/gorpeln/README/blob/master/Images/smallImage/mailLogo_small.png "gorpeln@163.com"
 [QRCode-wechat]:https://github.com/gorpeln/README/blob/master/Images/QRCode_whchat.png "公众号"
 [mail-logo-small]:https://github.com/gorpeln/README/blob/master/Images/smallImage/mailLogo_small.png "gorpeln@163.com"
+[mini-logo-small]:https://github.com/gorpeln/README/blob/master/Images/smallImage/miniLogo_small.png "https://gorpeln.com/article/15618778699"
+
 [gorpeln]: /myProfile.md "gorpeln"
 
