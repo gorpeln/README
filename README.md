@@ -5,7 +5,7 @@ README
 ****
 
 
-|[![my-logo-small]][gorpeln]|[![my-logo-small]][gorpeln]|[![my-logo-small]][gorpeln]|[![mail-logo-small]][gorpeln]|[![csdn-logo-small]][gorpeln]|[![qq-logo-small]][gorpeln]|[![mini-logo-small]][gorpeln]|
+|[![my-logo-small]][gorpeln]|[![shiguang-logo-small]][gorpeln]|[![shiguang-logo-small]][gorpeln]|[![mail-logo-small]][gorpeln]|[![csdn-logo-small]][gorpeln]|[![qq-logo-small]][gorpeln]|[![mini-logo-small]][gorpeln]|
 |:----:|:---:|:---:|:----:|:----:|:----:|:----:|
 |Author|个人博客|个人项目|E-mail|CSDN|QQ|小程序|
 |[gorpeln][gorpeln]|[风未止][blog]|[项目][projects]|[gorpeln@163.com][mailNumber]|[chen_gp_x][csdn]|[33964471][qqNumber]|[gorpeln][mini-url]|
@@ -370,6 +370,7 @@ GFM中可以显示的展示diff效果。使用绿色表示新增，红色表示�
 [QRCode-wechat]:https://github.com/gorpeln/README/blob/master/Images/QRCode_whchat.png "公众号"
 [mail-logo-small]:https://github.com/gorpeln/README/blob/master/Images/smallImage/mailLogo_small.png "gorpeln@163.com"
 [mini-logo-small]:https://github.com/gorpeln/README/blob/master/Images/smallImage/miniLogo_small.png "https://gorpeln.com/article/15618778699"
+[shiguang-logo-small]:https://github.com/gorpeln/README/blob/master/Images/smallImage/shiguangLogo_small.png "https://gorpeln.com/works"
 
 [gorpeln]: /myProfile.md "gorpeln"
 
