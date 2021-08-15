@@ -375,7 +375,7 @@ GFM中可以显示的展示diff效果。使用绿色表示新增，红色表示�
 [QRCode-wechat]:https://github.com/gorpeln/README/blob/master/Images/QRCode_whchat.png "公众号"
 [mail-logo-small]:https://github.com/gorpeln/README/blob/master/Images/smallImage/mailLogo_small.png "gorpeln@163.com"
 [mini-logo-small]:https://github.com/gorpeln/README/blob/master/Images/smallImage/miniLogo_small.png "https://gorpeln.cn/article/15618778699"
-[shiguang-logo-small]:https://github.com/gorpeln/README/blob/master/Images/smallImage/shiguangLogo_small.png "https://gorpeln.cn/works"
+[shiguang-logo-small]:https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/d5/f7/e8/d5f7e84b-5cfa-8c41-61c4-8a2865473a30/source/512x512bb.jpg "https://gorpeln.cn/works"
 
 [gorpeln]: /myProfile.md "gorpeln"
 
