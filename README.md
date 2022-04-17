@@ -354,7 +354,7 @@ GFM中可以显示的展示diff效果。使用绿色表示新增，红色表示�
 [blog]:https://gorpeln.cn "gorpeln"
 [projects]:https://gorpeln.cn/works "gorpeln"
 [qqNumber]:http://wpa.qq.com/msgrd?v=3&amp;uin=33964471&amp;site=qq&amp;menu=yes&amp;from=message&amp;isappinstalled=0 "gorpeln"
-[mailNumber]:http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=gorpeln@163.com "gorpeln"
+[mailNumber]:http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=gorpeln#163.com "gorpeln"
 [mini-url]:https://gorpeln.cn/article/15618778699 "gorpeln"
 
 [my-logo]:https://github.com/gorpeln/README/blob/master/Images/myLogo.jpg
@@ -371,7 +371,7 @@ GFM中可以显示的展示diff效果。使用绿色表示新增，红色表示�
 [wechat-logo-small]:https://github.com/gorpeln/README/blob/master/Images/smallImage/wechatLogo_small.png "gorpeln"
 [mail-logo-small]:https://github.com/gorpeln/README/blob/master/Images/smallImage/mailLogo_small.png "gorpeln@163.com"
 [QRCode-wechat]:https://github.com/gorpeln/README/blob/master/Images/QRCode_whchat.png "公众号"
-[mail-logo-small]:https://github.com/gorpeln/README/blob/master/Images/smallImage/mailLogo_small.png "gorpeln@163.com"
+[mail-logo-small]:https://github.com/gorpeln/README/blob/master/Images/smallImage/mailLogo_small.png "gorpeln#163.com"
 [mini-logo-small]:https://github.com/gorpeln/README/blob/master/Images/smallImage/miniLogo_small.png "https://gorpeln.cn/article/15618778699"
 [shiguang-logo-small]:https://github.com/gorpeln/README/blob/master/Images/smallImage/shiguangLogo_small.png "https://gorpeln.cn/works"
 
