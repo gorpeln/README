@@ -9,7 +9,7 @@ README
 |[![my-logo-small]][gorpeln]|[![my-logo-small]][blog]|[![shiguang-logo-small]][projects]|[![mail-logo-small]][mailNumber]|[![csdn-logo-small]][csdn]|[![qq-logo-small]][qqNumber]|[![mini-logo-small]][mini-url]|
 |:----:|:---:|:---:|:----:|:----:|:----:|:----:|
 |Author|个人博客|个人项目|E-mail|CSDN|QQ|小程序|
-|[gorpeln][gorpeln]|[风未止][blog]|[项目][projects]|[gorpeln#163.com][mailNumber]|[chen_gp_x][csdn]|[33964471][qqNumber]|[gorpeln][mini-url]|
+|[gorpeln][gorpeln]|[风未止][blog]|[项目][projects]|[help@gorpeln.top][mailNumber]|[chen_gp_x][csdn]|[33964471][qqNumber]|[gorpeln][mini-url]|
 
 ****
   
@@ -351,11 +351,11 @@ GFM中可以显示的展示diff效果。使用绿色表示新增，红色表示�
 [csdn]:http://blog.csdn.net/chen_gp_x "gorpeln"
 [zhihu]:https://www.zhihu.com/people/gorpeln "gorpeln"
 [jianshu]:https://www.jianshu.com/users/d9e93557a550 "gorpeln"
-[blog]:https://gorpeln.cn "gorpeln"
-[projects]:https://gorpeln.cn/works "gorpeln"
+[blog]:https://gorpeln.top "gorpeln"
+[projects]:https://gorpeln.top/works "gorpeln"
 [qqNumber]:http://wpa.qq.com/msgrd?v=3&amp;uin=33964471&amp;site=qq&amp;menu=yes&amp;from=message&amp;isappinstalled=0 "gorpeln"
-[mailNumber]:http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=gorpeln#163.com "gorpeln"
-[mini-url]:https://gorpeln.cn/article/15618778699 "gorpeln"
+[mailNumber]:http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=help@gorpeln.top "gorpeln"
+[mini-url]:https://gorpeln.top/article/15618778699 "gorpeln"
 
 [my-logo]:https://github.com/gorpeln/README/blob/master/Images/myLogo.jpg
 [baidu-logo]:http://www.baidu.com/img/bdlogo.gif "百度logo"
@@ -372,8 +372,8 @@ GFM中可以显示的展示diff效果。使用绿色表示新增，红色表示�
 [mail-logo-small]:https://github.com/gorpeln/README/blob/master/Images/smallImage/mailLogo_small.png "gorpeln#163.com"
 [QRCode-wechat]:https://github.com/gorpeln/README/blob/master/Images/QRCode_whchat.png "公众号"
 [mail-logo-small]:https://github.com/gorpeln/README/blob/master/Images/smallImage/mailLogo_small.png "gorpeln#163.com"
-[mini-logo-small]:https://github.com/gorpeln/README/blob/master/Images/smallImage/miniLogo_small.png "https://gorpeln.cn/article/15618778699"
-[shiguang-logo-small]:https://github.com/gorpeln/README/blob/master/Images/smallImage/shiguangLogo_small.png "https://gorpeln.cn/works"
+[mini-logo-small]:https://github.com/gorpeln/README/blob/master/Images/smallImage/miniLogo_small.png "https://gorpeln.top/article/15618778699"
+[shiguang-logo-small]:https://github.com/gorpeln/README/blob/master/Images/smallImage/shiguangLogo_small.png "https://gorpeln.top/works"
 
 [gorpeln]: /myProfile.md "gorpeln"
 
