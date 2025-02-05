@@ -9,7 +9,7 @@ README
 |[![my-logo-small]][gorpeln]|[![my-logo-small]][blog]|[![shiguang-logo-small]][projects]|[![mail-logo-small]][mailNumber]|[![csdn-logo-small]][csdn]|[![qq-logo-small]][qqNumber]|[![mini-logo-small]][mini-url]|
 |:----:|:---:|:---:|:----:|:----:|:----:|:----:|
 |Author|个人博客|个人项目|E-mail|CSDN|QQ|小程序|
-|[gorpeln][gorpeln]|[风未止][blog]|[项目][projects]|[help@gorpeln.top][mailNumber]|[chen_gp_x][csdn]|[33964471][qqNumber]|[gorpeln][mini-url]|
+|[gorpeln][gorpeln]|[风未止][blog]|[项目][projects]|[help@gor*eln.top][mailNumber]|[chen_gp_x][csdn]|[33964471][qqNumber]|[gorpeln][mini-url]|
 
 ****
   
